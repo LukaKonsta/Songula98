@@ -1,0 +1,66 @@
+h1 {
+    color: #ffffff;
+    position: relative;
+    left: 0px;
+    top: -20px;   
+}
+
+.HomePaje {
+    text-align: center;
+    background-color: #3b5998;
+    top: -20px;
+  }
+  
+  .home
+  {
+display: inline-block;
+background-color: #3b5998;
+color: #ffffff;
+border-radius: 5px;
+text-decoration: none;
+position: relative;
+left: 410px;
+top: -11px;
+width: 66px;
+scale: 1.2;
+  }
+
+  .news
+  {
+    display: inline-block;
+background-color: #3b5998;
+color: #ffffff;
+border-radius: 5px;
+position: relative;
+scale: 1.2;
+left: 530px;
+width: 66px;
+top: -48px;
+  }
+
+
+  .about
+  {
+      display: inline-block;
+    background-color: #3b5998;
+    color: #ffffff;
+    border-radius: 5px;
+    position: relative;
+    scale: 1.2;
+    left:650px;
+    width: 66px;
+    top: -84px;
+  }
+
+  .contact
+  {
+    display: inline-block;
+    background-color: #3b5998;
+    color: #ffffff;
+    border-radius: 5px;
+    position: relative;
+    scale: 1.2;
+    left: 770px;
+    width: 78px;
+    top: -120px;
+  }
